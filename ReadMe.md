@@ -1,4 +1,4 @@
-# E-Commerce Product Management System
+# E-commerce Product Management System
 
 A Java-based product management system that parses product data from CSV files and stores them in a **Left-Leaning Red-Black Tree (LLRB)** for fast and balanced lookup.
 
