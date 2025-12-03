@@ -1,0 +1,12 @@
+Product ID: 1001
+Name: Wireless Mouse
+Category: Electronics|Accessories
+Price: $29.99
+
+Product ID: 1002
+Name: Apple iPhone 14, 128GB
+Category: Smartphones|Electronics
+Price: $999.99
+
+Product ID: 9999 not found.
+
